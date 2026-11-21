@@ -1,4 +1,4 @@
-# ❤️ Cardiovascular Disease Prediction with Classification Tree Models
+# 🫀 Cardiovascular Disease Prediction with Classification Tree Models
 
 ## 📌 Project Overview
 
