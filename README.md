@@ -186,7 +186,7 @@ This project taught me that the most useful model is not always the most complex
 
 ## 🔗 Related Link
 
-[LinkedIn Post](https://www.linkedin.com/in/YOUR-POST-LINK)
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7529972811424169984/)
 
 ## 👨‍💻 Author
 
